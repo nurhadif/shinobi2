@@ -16,7 +16,7 @@
       "startappid":"209351066"
     }
   ],
-  "More":
+ "More":
   [
     {
       "id":1,
@@ -37,94 +37,1065 @@
       "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
     }
   ],
-  "Skin":
+ "Skin":
   [
     {
       "id":1,
-      "nama_skin":"Batman",
-      "skin_url":"https://aliendro.id/wp-content/skin/batman.png",
-      "view_skin":"https://lh3.googleusercontent.com/4o0GJ9ES4NAvTCSpY7aua6soyK1_pbFXybTg_WjCVMMRzANpp66ocNSF4R_Hu4NPOh3kbH6nZTp95QGn8P_eV1g"
+      "nama_skin":"[Shippuden] Naruto Sage Top",
+      "skin_url":"https://www.roblox.com/catalog/682145584/Shippuden-Naruto-Sage-Top",
+      "view_skin":"https://tr.rbxcdn.com/a5619164ac09d1edcb4ef9f83f8bd649/420/420/Shirt/Png"
     },
     {
       "id":2,
-      "nama_skin":"Captain Marvel",
-      "skin_url":"https://aliendro.id/wp-content/skin/cmarvel.png",
-      "view_skin":"https://lh3.googleusercontent.com/3iQQ-SEjTFADYrVQHTttXDGNvGALTSfJcwa6uGMJb75SXsqbE7kUmUpXl3iWtEdhYu3NYLjBH9tq_c8FahdLIw"
+      "nama_skin":"Temari Pants",
+      "skin_url":"https://www.roblox.com/catalog/5333556156/Temari-Pants",
+      "view_skin":"https://tr.rbxcdn.com/3f73ac7168fc7121d287d315d0d4b01f/420/420/Pants/Png"
     },
     {
       "id":3,
-      "nama_skin":"Ironman",
-      "skin_url":"https://aliendro.id/wp-content/skin/iron.png",
-      "view_skin":"https://lh3.googleusercontent.com/WRRFomiJcvyiCIAMZge6XfidYx8697Xq-dxs5MjP-APEoK0oVLXPUPNsBrhFYCJkDjPEQcj5kwUPibx7fGCbGgo"
+      "nama_skin":"Mizukage-Robe Pants",
+      "skin_url":"https://www.roblox.com/catalog/5613921435/Mizukage-Robe-Pants",
+      "view_skin":"https://tr.rbxcdn.com/16050e69ed794c913329d10de38796d7/420/420/Pants/Png"
     },
 
     {
       "id":4,
-      "nama_skin":"Spiderman",
-      "skin_url":"https://aliendro.id/wp-content/skin/spider.png",
-      "view_skin":"https://lh3.googleusercontent.com/spXRERF9KUQCud5iVhjFQzTnqQ-ttyZJQgzvF22yc_-MRLbPLDAv2jvQ2896XCmZiyYlmzMo8rCyhCdLOWQJRlA"
+      "nama_skin":"Naruto PTS Pants",
+      "skin_url":"https://www.roblox.com/catalog/5313464635/Naruto-PTS-Pants",
+      "view_skin":"https://tr.rbxcdn.com/89dae998b69f85470591b8c6c444ad59/420/420/Pants/Png"
     },
     {
       "id":5,
-      "nama_skin":"Deadpool",
-      "skin_url":"https://aliendro.id/wp-content/skin/dead.png",
-      "view_skin":"https://lh3.googleusercontent.com/SMkdgKEe6Rhx3X2_Qz_0BM1CqxhSGOIbCTCycr6SrdP_8kKl65nsOWfdsTypaso5lvPInfl9k_Cf5DNV9vPlRA"
+      "nama_skin":"Naruto Uzumaki [Shippuden] Pants",
+      "skin_url":"https://www.roblox.com/catalog/5309327267/Naruto-Uzumaki-Shippuden-Pants",
+      "view_skin":"https://tr.rbxcdn.com/44ba39b63ae6ba5a4486883c06f000bf/420/420/Pants/Png"
     },
     {
       "id":6,
-      "nama_skin":"Captain Amerika",
-      "skin_url":"https://aliendro.id/wp-content/skin/cap.png",
-      "view_skin":"https://lh3.googleusercontent.com/yrkmUYbYxfePyHx1NRe5bPEJhPM3sqllvimkNwjaaVAxqfO0v9W9e_dG5781J6Ylg7D8C5CZeS2rMVN3t8ft"
+      "nama_skin":"Naruto PTS Top",
+      "skin_url":"https://www.roblox.com/catalog/5313463471/Naruto-PTS-Top",
+      "view_skin":"https://tr.rbxcdn.com/eeb162bba12f9c1cc7b720a549a6f4b0/420/420/Shirt/Png"
     },
 
 
     {
       "id":7,
-      "nama_skin":"Wallverine",
-      "skin_url":"https://aliendro.id/wp-content/skin/xman.png",
-      "view_skin":"https://lh3.googleusercontent.com/uaJPGCy4OKO-l-kO31_bGPswxU8ChJPOUSjDGqE01F4Klla4xIOi7MzPdiLyeiWXTnYpDsKZy20RZknG5Sdo"
+      "nama_skin":"Naruto Uzumaki [Shippuden] Shirt",
+      "skin_url":"https://www.roblox.com/catalog/5313411176/Naruto-Uzumaki-Shippuden-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/35f12b7bd46a58fc2e51d2378ada49b7/420/420/Shirt/Png"
     },
     {
       "id":8,
-      "nama_skin":"The Hulk",
-      "skin_url":"https://aliendro.id/wp-content/skin/hulk.png",
-      "view_skin":"https://lh3.googleusercontent.com/zkEkVCgYXxLieG-H_5uzqiEFNz15H7d6kY_J_i6bZ9FC6DyBy-lZSVRmQQKFIq7WsMkHVxfZdECmJEi8FvheheM"
+      "nama_skin":"Choji Shippuden Top",
+      "skin_url":"https://www.roblox.com/catalog/2350960865/Choji-Shippuden-Top",
+      "view_skin":"https://tr.rbxcdn.com/76286299005f330f4cad2b8b544e42bd/420/420/Shirt/Png"
     },
     {
       "id":9,
-      "nama_skin":"Thor",
-      "skin_url":"https://aliendro.id/wp-content/skin/thor.png",
-      "view_skin":"https://lh3.googleusercontent.com/-Q0vRAjwg9-9D-Np5YS8hJSIcgs8BtIw9nw_BRbZpz3azgyPGAPS5EJpJDBAVzm4V-ot5mbUobyQJgyyxsh9WA"
+      "nama_skin":"Choji Shippuden Pants",
+      "skin_url":"https://www.roblox.com/catalog/2350947065/Choji-Shippuden-Pants",
+      "view_skin":"https://tr.rbxcdn.com/10069c61fddc5d607d315b15636c690b/420/420/Pants/Png"
     },
 
     {
       "id":10,
-      "nama_skin":"Superman",
-      "skin_url":"https://aliendro.id/wp-content/skin/super.png",
-      "view_skin":"https://lh3.googleusercontent.com/7zmiS3wCq6Uszcg0O-NJRWAsepF47TT-lqujRgaf7NguiMUGTnl6iGeA6-h5-T458sddzA0WRH-iVM94u-U8"
+      "nama_skin":"Gaara Shippuden Top",
+      "skin_url":"https://www.roblox.com/catalog/1634558712/Gaara-Shippuden-Top",
+      "view_skin":"https://tr.rbxcdn.com/1e531a0e542af270d0ae640587007b61/420/420/Shirt/Png"
     },
     {
       "id":11,
-      "nama_skin":"One Pouch Man",
-      "skin_url":"https://aliendro.id/wp-content/skin/one.png",
-      "view_skin":"https://lh3.googleusercontent.com/RxMgIk1iuWLIVveEBieyMkcQfpSq7HyQgeUBIgwyuySBcGbmAd796pjVhxvlD3K67-LdWKjSfZOKOrtrze8l"
+      "nama_skin":"Gaara Shippuden Pants",
+      "skin_url":"https://www.roblox.com/catalog/1634559631/Gaara-Shippuden-Pants",
+      "view_skin":"https://tr.rbxcdn.com/a93312b929d721c42f6127802b3d0f82/420/420/Pants/Png"
     },
     {
       "id":12,
-      "nama_skin":"Son Goku",
-      "skin_url":"https://aliendro.id/wp-content/skin/goku.png",
-      "view_skin":"https://lh3.googleusercontent.com/udrTngonhn0A-PxTDUMG3-jgzTF0Dj5ZBEj2c6v4BR-FAZpEnQKFQHbqkkQ7uAvQAPKGhbPfromeYJu7hnZ2"
+      "nama_skin":"Sand Flak Pants",
+      "skin_url":"https://www.roblox.com/catalog/1626902764/Sand-Flak-Pants",
+      "view_skin":"https://tr.rbxcdn.com/42585185ca5eca540f4df771a93e5cf0/420/420/Pants/Png"
+    },
+    {
+      "id":13,
+      "nama_skin":"[Gaiden] Anbu Itachi Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490587914/Gaiden-Anbu-Itachi-Top",
+      "view_skin":"https://tr.rbxcdn.com/9eefdd4bc3f9e4c63719f58f94bafffa/420/420/Pants/Png"
+    },
+    {
+      "id":14,
+      "nama_skin":"Itachi",
+      "skin_url":"https://www.roblox.com/catalog/4447493018/Itachi-Itachi-Itachi-Itachi-Itachi-Itachi-Itachi",
+      "view_skin":"https://tr.rbxcdn.com/a93312b929d721c42f6127802b3d0f82/420/420/Pants/Png"
+    },
+    {
+      "id":15,
+      "nama_skin":"Sasuke Uchiha EMS Robe Bottom",
+      "skin_url":"https://www.roblox.com/catalog/433098071/Sasuke-Uchiha-EMS-Robe-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/2e080b0193800edf4e430f544d8c5182/420/420/Pants/Png"
+    },
+
+    {
+      "id":7,
+      "nama_skin":"Six Paths Senjutsu",
+      "skin_url":"https://www.roblox.com/catalog/4222102986/Naruto-Sage-of-Six-Paths-Six-Paths-Senjutsu",
+      "view_skin":"https://tr.rbxcdn.com/af92d3bdd700d484f32ba9b42e6c6550/420/420/Pants/Png"
+    },
+    {
+      "id":8,
+      "nama_skin":"Orochimaru Pants",
+      "skin_url":"https://www.roblox.com/catalog/1619837542/Orochimaru-Pants",
+      "view_skin":"https://tr.rbxcdn.com/c381f545adf041db48bf3b02357d0d74/420/420/Pants/Png"
+    },
+    {
+      "id":9,
+      "nama_skin":"Orochimaru Top",
+      "skin_url":"https://www.roblox.com/catalog/1619836218/Orochimaru-Top",
+      "view_skin":"https://tr.rbxcdn.com/2af6fb5bc5883f8eb9c0353e21f66c2c/420/420/Shirt/Png"
+    },
+
+    {
+      "id":10,
+      "nama_skin":"Tsuchikage Pants",
+      "skin_url":"https://www.roblox.com/catalog/1046313372/Tsuchikage-Pants",
+      "view_skin":"https://tr.rbxcdn.com/9d7ce3193854c415bcd21bc8e3784a74/420/420/Pants/Png"
+    },
+    {
+      "id":11,
+      "nama_skin":"Tsuchikage Top",
+      "skin_url":"https://www.roblox.com/catalog/1046313236/Tsuchikage-Top",
+      "view_skin":"https://tr.rbxcdn.com/68846e4481c30d3f4dd2d5b9a7325e2f/420/420/Shirt/Png"
+    },
+    {
+      "id":12,
+      "nama_skin":"Raikage Pants",
+      "skin_url":"https://www.roblox.com/catalog/1046313102/Raikage-Pants",
+      "view_skin":"https://tr.rbxcdn.com/96a0407e56a2f2773c3d3fe190ff816b/420/420/Pants/Png"
+    },
+    {
+      "id":13,
+      "nama_skin":"Mizukage Pants",
+      "skin_url":"https://www.roblox.com/catalog/1046312826/Mizukage-Pants",
+      "view_skin":"https://tr.rbxcdn.com/06946aeba293c920aa4f2556d3437085/420/420/Pants/Png"
+    },
+    {
+      "id":14,
+      "nama_skin":"Mizukage Top",
+      "skin_url":"https://www.roblox.com/catalog/1046312641/Mizukage-Top",
+      "view_skin":"https://tr.rbxcdn.com/56a823053cfd272189b640bfe4eed72c/420/420/Shirt/Png"
+    },
+    {
+      "id":15,
+      "nama_skin":"Kazekage Pants",
+      "skin_url":"https://www.roblox.com/catalog/1046312452/Kazekage-Pants",
+      "view_skin":"https://tr.rbxcdn.com/886765cbaf6f0e40c52f8ae4e34ffb07/420/420/Pants/Png"
+    },
+    {
+      "id":16,
+      "nama_skin":"Kazekage Top",
+      "skin_url":"https://www.roblox.com/catalog/1046312333/Kazekage-Top",
+      "view_skin":"https://tr.rbxcdn.com/e19a019f01484b2ff144261e9c59ed3e/420/420/Shirt/Png"
+    },
+    {
+      "id":17,
+      "nama_skin":"Hokage Pants",
+      "skin_url":"https://www.roblox.com/catalog/1046312173/Hokage-Pants",
+      "view_skin":"https://tr.rbxcdn.com/78de6f6e7a5b2ea97dc5fce919ba0201/420/420/Pants/Png"
+    },
+    {
+      "id":18,
+      "nama_skin":"Hokage Top",
+      "skin_url":"https://www.roblox.com/catalog/1046311999/Hokage-Top",
+      "view_skin":"https://tr.rbxcdn.com/aaf7256a13ecc9a09320ecdc9aef1e9f/420/420/Shirt/Png"
+    },
+    {
+      "id":19,
+      "nama_skin":"PTS Gaara Pants",
+      "skin_url":"https://www.roblox.com/catalog/1044075021/PTS-Gaara-Pants",
+      "view_skin":"https://tr.rbxcdn.com/2ad0655017527e8a3dc05021962a912e/420/420/Pants/Png"
+    },
+    {
+      "id":20,
+      "nama_skin":"PTS Gaara Top",
+      "skin_url":"https://www.roblox.com/catalog/1044074888/PTS-Gaara-Top",
+      "view_skin":"https://tr.rbxcdn.com/1d6e5703ade55664fc99b8b9428c1e6d/420/420/Shirt/Png"
+    },
+    {
+      "id":21,
+      "nama_skin":"Puppet Sassori Bottom",
+      "skin_url":"https://www.roblox.com/catalog/780554261/Puppet-Sasori-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/238be3f17115d1241c8dec0b94410064/420/420/Pants/Png"
+    },
+    {
+      "id":22,
+      "nama_skin":"Puppet Sassori Top",
+      "skin_url":"https://www.roblox.com/catalog/780553738/Puppet-Sasori-Top",
+      "view_skin":"https://tr.rbxcdn.com/c296d1cfb108992b3b88c951de56dc57/420/420/Shirt/Png"
+    },
+    {
+      "id":23,
+      "nama_skin":"Naruto Chakra Mode",
+      "skin_url":"https://www.roblox.com/catalog/779198818/Narutos-Chakra-Mode-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/e50a5e6c5e6ad7e581de1bfa2a42c80d/420/420/Pants/Png"
+    },
+    {
+      "id":24,
+      "nama_skin":"Naruto Chakra Mode",
+      "skin_url":"https://www.roblox.com/catalog/779198383/Narutos-Chakra-Mode-Top",
+      "view_skin":"https://tr.rbxcdn.com/611027ac3a9bb965227d51d6a987043e/420/420/Shirt/Png"
+    },
+    {
+      "id":25,
+      "nama_skin":"Darui Bottom",
+      "skin_url":"https://www.roblox.com/catalog/760673930/Daruis-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/14a0988131603fc6e319bd32e6357795/420/420/Pants/Png"
+    },
+    {
+      "id":26,
+      "nama_skin":"Darui Top",
+      "skin_url":"https://www.roblox.com/catalog/760673412/Daruis-Top",
+      "view_skin":"https://tr.rbxcdn.com/e933cb1931bff84b4f8dc69802c0968f/420/420/Shirt/Png"
+    },
+    {
+      "id":27,
+      "nama_skin":"Gaiden Sasuke Top",
+      "skin_url":"https://www.roblox.com/catalog/749482593/Gaiden-Sasukes-Bottom-2",
+      "view_skin":"https://tr.rbxcdn.com/424d15eaba7cc6b761c4898f4b293cdf/420/420/Pants/Png"
+    },
+    {
+      "id":28,
+      "nama_skin":"Gaiden Sasuke Top 2",
+      "skin_url":"https://www.roblox.com/catalog/749482324/Gaiden-Sasukes-Top-2",
+      "view_skin":"https://tr.rbxcdn.com/a14e974f5610fee9a3bf0df9586d5973/420/420/Shirt/Png"
+    },
+    {
+      "id":29,
+      "nama_skin":"Raikage Bottom",
+      "skin_url":"https://www.roblox.com/catalog/740103749/Raikage-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/df19227a6f022d4e62a8227b374d0e1d/420/420/Pants/Png"
+    },
+    {
+      "id":30,
+      "nama_skin":"Raikage Top",
+      "skin_url":"https://www.roblox.com/catalog/740103503/Raikage-Top",
+      "view_skin":"https://tr.rbxcdn.com/9f557ecbf4d9c927c2edcbc0191472d2/420/420/Shirt/Png"
+    },
+    {
+      "id":31,
+      "nama_skin":"Cloak Raikage",
+      "skin_url":"https://www.roblox.com/catalog/740105979/Cloak-Raikage-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/ba6d7cf3d622acf2853515673e58927e/420/420/Pants/Png"
+    },
+    {
+      "id":32,
+      "nama_skin":"Cloak Raikage Top",
+      "skin_url":"https://www.roblox.com/catalog/740103097/Cloak-Raikage-Top",
+      "view_skin":"https://tr.rbxcdn.com/e0078ffa29513787b68248020a79d013/420/420/Shirt/Png"
+    },
+    {
+      "id":33,
+      "nama_skin":"Regular Minato",
+      "skin_url":"https://www.roblox.com/catalog/446573978/Regular-Minato-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/8430025a84ef7bb45e0a61e1eec06342/420/420/Pants/Png"
+    },
+    {
+      "id":34,
+      "nama_skin":"Regular Minato Top",
+      "skin_url":"https://www.roblox.com/catalog/446573725/Regular-Minato-Top",
+      "view_skin":"https://tr.rbxcdn.com/362ae6f8ad322f00b411cf9bc8876a33/420/420/Shirt/Png"
+    },
+    {
+      "id":35,
+      "nama_skin":"Hokage Minato",
+      "skin_url":"https://www.roblox.com/catalog/732894814/Hokage-Minato-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/28c219ea693cbc938d7a4c0c4803ba28/420/420/Pants/Png"
+    },
+    {
+      "id":36,
+      "nama_skin":"Hokage Minato Top",
+      "skin_url":"https://www.roblox.com/catalog/732893247/Hokage-Minato-Top",
+      "view_skin":"https://tr.rbxcdn.com/0dade6a9c9d2eec5b29c980de12af913/420/420/Shirt/Png"
+    },
+    {
+      "id":37,
+      "nama_skin":"PTS Shino Bottom",
+      "skin_url":"https://www.roblox.com/catalog/705661034/PTS-Shino-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/5a6db1f8fac268ff2318e63b35582564/420/420/Pants/Png"
+    },
+    {
+      "id":38,
+      "nama_skin":"PTS Shino Top",
+      "skin_url":"https://www.roblox.com/catalog/705660894/PTS-Shino-Top",
+      "view_skin":"https://tr.rbxcdn.com/3ecba35923a66937d2547c50def81025/420/420/Shirt/Png"
+    },
+    {
+      "id":39,
+      "nama_skin":"Shippuden Sasuke",
+      "skin_url":"https://www.roblox.com/catalog/686090205/Shippuden-Sasuke-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/dd7d312accf2ffe138b0ba35c0d34afc/420/420/Pants/Png"
+    },
+    {
+      "id":40,
+      "nama_skin":"Shippuden Sasuke Top",
+      "skin_url":"https://www.roblox.com/catalog/686089974/Shippuden-Sasuke-Top",
+      "view_skin":"https://tr.rbxcdn.com/0817702feb5d7ddc24cb6e0ba362830d/420/420/Shirt/Png"
+    },
+    {
+      "id":41,
+      "nama_skin":"Shippuden Sasuke",
+      "skin_url":"https://www.roblox.com/catalog/686089553/Shippuden-Sasuke-Bottom-Itachis-Battle",
+      "view_skin":"https://tr.rbxcdn.com/32501687138f9e310fffab8771042e6f/420/420/Pants/Png"
+    },
+    {
+      "id":42,
+      "nama_skin":"Shippuden Sasuke Top",
+      "skin_url":"https://www.roblox.com/catalog/686089257/Shippuden-Sasuke-Top-Itachis-Battle",
+      "view_skin":"https://tr.rbxcdn.com/c0bdeb981323954e4f73fd39f487a56c/420/420/Shirt/Png"
+    },
+    {
+      "id":43,
+      "nama_skin":"Shippuden Sasuke",
+      "skin_url":"https://www.roblox.com/catalog/686088607/Shippuden-Sasuke-Bottom-Aftermath",
+      "view_skin":"https://tr.rbxcdn.com/e22b9a964caaad015160b7f5a09b9f87/420/420/Pants/Png"
+    },
+    {
+      "id":44,
+      "nama_skin":"Shippuden Sasuke Top",
+      "skin_url":"https://www.roblox.com/catalog/686088339/Shippuden-Sasuke-Top-Aftermath",
+      "view_skin":"https://tr.rbxcdn.com/922d1063823b325ad4eb416bcb0fc5a6/420/420/Shirt/Png"
+    },
+    {
+      "id":45,
+      "nama_skin":"Child Naruto Bottom",
+      "skin_url":"https://www.roblox.com/catalog/435492256/Child-Naruto-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/8ca119cb47729be2b033bd7e7a68d51a/420/420/Pants/Png"
+    },
+    {
+      "id":46,
+      "nama_skin":"Child Naruto Top",
+      "skin_url":"https://www.roblox.com/catalog/435492479/Child-Naruto-Top",
+      "view_skin":"https://tr.rbxcdn.com/5399d51154c80c6eb6de5ac6d0f004c9/420/420/Shirt/Png"
+    },
+    {
+      "id":47,
+      "nama_skin":"Shippuden Naruto Sage",
+      "skin_url":"https://www.roblox.com/catalog/682145985/Shippuden-Naruto-Sage-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/dc5800687fb8411b2a5fe1875f4e5960/420/420/Pants/Png"
+    },
+    {
+      "id":48,
+      "nama_skin":"Shippuden Naruto Sage",
+      "skin_url":"https://www.roblox.com/catalog/682145584/Shippuden-Naruto-Sage-Top",
+      "view_skin":"https://tr.rbxcdn.com/a5619164ac09d1edcb4ef9f83f8bd649/420/420/Shirt/Png"
+    },
+    {
+      "id":49,
+      "nama_skin":"Shippuden Naruto",
+      "skin_url":"https://www.roblox.com/catalog/682118912/Shippuden-Naruto-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/c3954447acb9b06d854af893c0790f4e/420/420/Pants/Png"
+    },
+    {
+      "id":50,
+      "nama_skin":"Shippuden Naruto Top",
+      "skin_url":"https://www.roblox.com/catalog/682118533/Shippuden-Naruto-Top",
+      "view_skin":"https://tr.rbxcdn.com/2a6ee10ba3ca8084e54c9aed167921f3/420/420/Shirt/Png"
+    },
+    {
+      "id":51,
+      "nama_skin":"[PTS] Naruto Bottom",
+      "skin_url":"https://www.roblox.com/catalog/677466736/PTS-Naruto-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/ee521dd15eb48450188cdf781498a9b5/420/420/Pants/Png"
+    },
+    {
+      "id":52,
+      "nama_skin":"[PTS] Naruto Top",
+      "skin_url":"https://www.roblox.com/catalog/677466922/PTS-Naruto-Top",
+      "view_skin":"https://tr.rbxcdn.com/4d98ef4427c93571c78bc5e5a3b535f2/420/420/Shirt/Png"
+    },
+    {
+      "id":53,
+      "nama_skin":"[Gaiden] Naruto Bottom [Cloaked]",
+      "skin_url":"https://www.roblox.com/catalog/675309666/Gaiden-Naruto-Bottom-Cloaked",
+      "view_skin":"https://tr.rbxcdn.com/9536a0e89171ed5846e40ee9cf8e4643/420/420/Pants/Png"
+    },
+    {
+      "id":54,
+      "nama_skin":"[Gaiden] Naruto Top [Cloaked]",
+      "skin_url":"https://www.roblox.com/catalog/675309415/Gaiden-Naruto-Top-Cloaked",
+      "view_skin":"https://tr.rbxcdn.com/8956ffe70db218d24a982df5044397b7/420/420/Shirt/Png"
+    },
+    {
+      "id":55,
+      "nama_skin":"[Gaiden] Naruto Bottom",
+      "skin_url":"https://www.roblox.com/catalog/675279245/Gaiden-Naruto-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/9ad8af10b004ef1ef46c920acf3ff9fd/420/420/Pants/Png"
+    },
+    {
+      "id":56,
+      "nama_skin":"[Gaiden] Naruto Top",
+      "skin_url":"https://www.roblox.com/catalog/675278909/Gaiden-Naruto-Top",
+      "view_skin":"https://tr.rbxcdn.com/6bfd284b90f49d3817d86efd0d5ddee6/420/420/Shirt/Png"
+    },
+    {
+      "id":57,
+      "nama_skin":"Madara Bottom",
+      "skin_url":"https://www.roblox.com/catalog/666171627/Madara-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/3970f3bd9cd41e1f24d6629da13d6ced/420/420/Pants/Png"
+    },
+    {
+      "id":58,
+      "nama_skin":"Madara Top",
+      "skin_url":"https://www.roblox.com/catalog/666165917/Madara-Top",
+      "view_skin":"https://tr.rbxcdn.com/57db8cdcf5632bb515a2d8d94770ca29/420/420/Shirt/Png"
+    },
+    {
+      "id":59,
+      "nama_skin":"[Shippuden] Kiba Bottom",
+      "skin_url":"https://www.roblox.com/catalog/660148352/Shippuden-Kiba-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/5f919c3be6d5e4303c274eb5b512238f/420/420/Pants/Png"
+    },
+    {
+      "id":60,
+      "nama_skin":"[Shippuden] KibaTop",
+      "skin_url":"https://www.roblox.com/catalog/660148162/Shippuden-KibaTop",
+      "view_skin":"https://tr.rbxcdn.com/5cff0e882aef9da8865c61e4168c416c/420/420/Shirt/Png"
+    },
+    {
+      "id":61,
+      "nama_skin":"Kumo Flak Bottom",
+      "skin_url":"https://www.roblox.com/catalog/501596481/Kumo-Flak-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/16b18f1240c48c30272c1281caf153c1/420/420/Pants/Png"
+    },
+    {
+      "id":62,
+      "nama_skin":"Kumo Flak Top",
+      "skin_url":"https://www.roblox.com/catalog/501596411/Kumo-Flak-Top",
+      "view_skin":"https://tr.rbxcdn.com/7275b5a9dc65b6ea7584e2a0181b8eee/420/420/Shirt/Png"
+    },
+    {
+      "id":63,
+      "nama_skin":"Iwaga Flak Bottom",
+      "skin_url":"https://www.roblox.com/catalog/657241966/Iwaga-Flak-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/710756253570b14c789b04847349f0e3/420/420/Pants/Png"
+    },
+    {
+      "id":64,
+      "nama_skin":"Iwaga Flak Top",
+      "skin_url":"https://www.roblox.com/catalog/657241809/Iwaga-Flak-Top",
+      "view_skin":"https://tr.rbxcdn.com/a1a88d1d203e19b8999811578ab7da27/420/420/Shirt/Png"
+    },
+    {
+      "id":65,
+      "nama_skin":"Konoha Flak Bottom",
+      "skin_url":"https://www.roblox.com/catalog/657186264/Konoha-Flak-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/2ab57067a607b78269a4285844cad216/420/420/Pants/Png"
+    },
+    {
+      "id":66,
+      "nama_skin":"Konoha Flak Top",
+      "skin_url":"https://www.roblox.com/catalog/657186120/Konoha-Flak-Top",
+      "view_skin":"https://tr.rbxcdn.com/d0bd87bf6afe0b5b487a6cb53039806c/420/420/Shirt/Png"
+    },
+    {
+      "id":67,
+      "nama_skin":"PTS Sasuke Bottom V2",
+      "skin_url":"",
+      "view_skin":"https://tr.rbxcdn.com/10b4a745c38b66a51f26158fb9cf52cb/420/420/Pants/Png"
+    },
+    {
+      "id":68,
+      "nama_skin":"PTS Sasuke Top V2",
+      "skin_url":"https://www.roblox.com/catalog/642369907/PTS-Sasuke-Bottom-V2",
+      "view_skin":"https://tr.rbxcdn.com/13ea489f2eda74113f2ef435bbfeeed4/420/420/Shirt/Png"
+    },
+    {
+      "id":69,
+      "nama_skin":"PTS Sasuke Bottom",
+      "skin_url":"https://www.roblox.com/catalog/642358732/PTS-Sasuke-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/72726c723f13e627f62d4e6866208af0/420/420/Pants/Png"
+    },
+    {
+      "id":70,
+      "nama_skin":"PTS Sasuke Top",
+      "skin_url":"https://www.roblox.com/catalog/642358358/PTS-Sasuke-Top",
+      "view_skin":"https://tr.rbxcdn.com/3b1b9378eb2bed58f9cdbb82958ad098/420/420/Shirt/Png"
+    },
+    {
+      "id":71,
+      "nama_skin":"Sound Four Bottom | New Gen",
+      "skin_url":"https://www.roblox.com/catalog/590036883/Sound-Four-Bottom-New-Gen",
+      "view_skin":"https://tr.rbxcdn.com/81a243272792d68de141bf4a0b4035b8/420/420/Pants/Png"
+    },
+    {
+      "id":72,
+      "nama_skin":"Sound Four Top | New Gen",
+      "skin_url":"https://www.roblox.com/catalog/590036548/Sound-Four-Top-New-Gen",
+      "view_skin":"https://tr.rbxcdn.com/18571147dce751338f9401ec8b638ab6/420/420/Shirt/Png"
+    },
+    {
+      "id":73,
+      "nama_skin":"Akatsuki Bottom | New Gen",
+      "skin_url":"https://www.roblox.com/catalog/590012284/Akatsuki-Bottom-New-Gen",
+      "view_skin":"https://tr.rbxcdn.com/1ed7ac2741faff1e3b4ee3bdadaf36b4/420/420/Pants/Png"
+    },
+    {
+      "id":74,
+      "nama_skin":"Akatsuki Top | New Gen",
+      "skin_url":"https://www.roblox.com/catalog/590012050/Akatsuki-Top-New-Gen",
+      "view_skin":"https://tr.rbxcdn.com/ec12e44a7b70349109cca90b0e8381ac/420/420/Shirt/Png"
+    },
+    {
+      "id":75,
+      "nama_skin":"[Gaiden] Adventurer Bottom",
+      "skin_url":"https://www.roblox.com/catalog/501809419/Gaiden-Adventurer-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/daa565876b607c5f0f28fbc345f5256b/420/420/Pants/Png"
+    },
+    {
+      "id":76,
+      "nama_skin":"[Gaiden] Adventurer Top",
+      "skin_url":"https://www.roblox.com/catalog/501809304/Gaiden-Adventurer-Top",
+      "view_skin":"https://tr.rbxcdn.com/d3f5f1b82d2c2fd425bc7f0df68c99cd/420/420/Shirt/Png"
+    },
+    {
+      "id":77,
+      "nama_skin":"[Gaiden] Adventurer Top",
+      "skin_url":"https://www.roblox.com/catalog/501605722/Gaiden-Lightning-Shinobi-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/70c43846290abc0e5a1f2d6e454a3aae/420/420/Pants/Png"
+    },
+    {
+      "id":78,
+      "nama_skin":"[Gaiden] Lightning Shinobi Top",
+      "skin_url":"https://www.roblox.com/catalog/501605649/Gaiden-Lightning-Shinobi-Top",
+      "view_skin":"https://tr.rbxcdn.com/9578bec0a260e55a612b2a6760a73496/420/420/Shirt/Png"
+    },
+    {
+      "id":79,
+      "nama_skin":"[Gaiden] The Last Bottom",
+      "skin_url":"https://www.roblox.com/catalog/501573227/Gaiden-The-Last-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/9acb88a714da713e8486710d6a4e004f/420/420/Pants/Png"
+    },
+    {
+      "id":80,
+      "nama_skin":"[Gaiden] The Last Top",
+      "skin_url":"https://www.roblox.com/catalog/501573181/Gaiden-The-Last-Top",
+      "view_skin":"https://tr.rbxcdn.com/25a177168b0c3a87b5df4801665ba4c5/420/420/Shirt/Png"
+    },
+    {
+      "id":81,
+      "nama_skin":"[Gaiden] Samurai Top Armour",
+      "skin_url":"https://www.roblox.com/catalog/413015288/Gaiden-Samurai-Top-Armour",
+      "view_skin":"https://tr.rbxcdn.com/afaba8f24b6268650ea54cde45480907/420/420/Shirt/Png"
+    },
+    {
+      "id":82,
+      "nama_skin":"[Gaiden] Samurai Bottom Armour",
+      "skin_url":"https://www.roblox.com/catalog/413015398/Gaiden-Samurai-Bottom-Armour",
+      "view_skin":"https://tr.rbxcdn.com/de36c9c03087f4ffe40ae5fa90cf5baf/420/420/Pants/Png"
+    },
+    {
+      "id":83,
+      "nama_skin":"[Gaiden] Samurai Bottom",
+      "skin_url":"https://www.roblox.com/catalog/413015131/Gaiden-Samurai-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/80088f07b37a0c969f4edf87873de9e7/420/420/Pants/Png"
+    },
+    {
+      "id":84,
+      "nama_skin":"[Gaiden] Samurai Top",
+      "skin_url":"https://www.roblox.com/catalog/413015046/Gaiden-Samurai-Top",
+      "view_skin":"https://tr.rbxcdn.com/4c652e00bd61684ec86a5611fbc7e74e/420/420/Shirt/Png"
+    },
+    {
+      "id":85,
+      "nama_skin":"[Gaiden] Medical Nin Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490586958/Gaiden-Medical-Nin-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/921ff4cdcd6f4e730d4c81c80049f453/420/420/Pants/Png"
+    },
+    {
+      "id":86,
+      "nama_skin":"[Gaiden] Medical Nin Top",
+      "skin_url":"https://www.roblox.com/catalog/490586767/Gaiden-Medical-Nin-Top",
+      "view_skin":"https://tr.rbxcdn.com/ee5b530ad7e72b70a39165f8df973611/420/420/Shirt/Png"
+    },
+    {
+      "id":87,
+      "nama_skin":"[Gaiden] Boruto Top",
+      "skin_url":"https://www.roblox.com/catalog/491627649/Gaiden-Boruto-Top",
+      "view_skin":"https://tr.rbxcdn.com/478ee4cb7648e7f12b4e3b2da718e428/420/420/Shirt/Png"
+    },
+    {
+      "id":88,
+      "nama_skin":"[Gaiden] Boruto Bottom",
+      "skin_url":"https://www.roblox.com/catalog/491615176/Gaiden-Boruto-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/cf0030e753553505a48bec15f4314288/420/420/Pants/Png"
+    },
+    {
+      "id":89,
+      "nama_skin":"[Gaiden] Uchiha Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490602920/Gaiden-Uchiha-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/e10f0a6c1381bef1552fde76917acee5/420/420/Pants/Png"
+    },
+    {
+      "id":90,
+      "nama_skin":"[Gaiden] Uchiha Top",
+      "skin_url":"https://www.roblox.com/catalog/490602746/Gaiden-Uchiha-Top",
+      "view_skin":"https://tr.rbxcdn.com/28e2f3935cbaef7fcadb579a8b3dad94/420/420/Shirt/Png"
+    },
+    {
+      "id":91,
+      "nama_skin":"[Gaiden] Sakura's Custom Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490597062/Gaiden-Sakuras-Custom-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/ef796e80f9da9b3e1645432094c625c8/420/420/Pants/Png"
+    },
+    {
+      "id":92,
+      "nama_skin":"[Gaiden] Sakura's Custom Top",
+      "skin_url":"https://www.roblox.com/catalog/490596894/Gaiden-Sakuras-Custom-Top",
+      "view_skin":"https://tr.rbxcdn.com/ee0a5c8642fe234a42f809e83ea81b7e/420/420/Shirt/Png"
+    },
+    {
+      "id":93,
+      "nama_skin":"[Gaiden] Haku's Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490584519/Gaiden-Hakus-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/213d897f9a846db9ed46ef269e1024b8/420/420/Pants/Png"
+    },
+    {
+      "id":94,
+      "nama_skin":"[Gaiden] Haku's Top",
+      "skin_url":"https://www.roblox.com/catalog/490584404/Gaiden-Hakus-Top",
+      "view_skin":"https://tr.rbxcdn.com/bfb9fd6e3a1e501970c42b2386dd74b9/420/420/Shirt/Png"
+    },
+    {
+      "id":95,
+      "nama_skin":"[Gaiden] Uzumaki Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490600359/Gaiden-Uzumaki-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/66f7a0516761cb4ff3b5e24f21f2101a/420/420/Pants/Png"
+    },
+    {
+      "id":96,
+      "nama_skin":"[Gaiden] Uzumaki Top",
+      "skin_url":"https://www.roblox.com/catalog/490600080/Gaiden-Uzumaki-Top",
+      "view_skin":"https://tr.rbxcdn.com/ef7c5015603d52aa01d0a6d0e67bcf33/420/420/Shirt/Png"
+    },
+    {
+      "id":97,
+      "nama_skin":"[Gaiden] Ino's Custom Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490606488/Gaiden-Inos-Custom-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/48f0474c8ff44576236eaa1f20b0984d/420/420/Pants/Png"
+    },
+    {
+      "id":98,
+      "nama_skin":"[Gaiden] Ino's Custom Top",
+      "skin_url":"https://www.roblox.com/catalog/490606389/Gaiden-Inos-Custom-Top",
+      "view_skin":"https://tr.rbxcdn.com/040975a772a29b754e3c538f0e7a0219/420/420/Shirt/Png"
+    },
+    {
+      "id":99,
+      "nama_skin":"[Gaiden] Hyuga Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490605463/Gaiden-Hyuga-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/074a1109e59b1ab9d70274628fbdc744/420/420/Pants/Png"
+    },
+    {
+      "id":100,
+      "nama_skin":"[Gaiden] Hyuga Top",
+      "skin_url":"https://www.roblox.com/catalog/490605263/Gaiden-Hyuga-Top",
+      "view_skin":"https://tr.rbxcdn.com/ef2515dcedf7a5294b56ca516265d743/420/420/Shirt/Png"
+    },
+    {
+      "id":101,
+      "nama_skin":"[Gaiden] Samurai Casual Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490604383/Gaiden-Samurai-Casual-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/8d8d15842d23d5457c893943c59507cb/420/420/Pants/Png"
+    },
+    {
+      "id":102,
+      "nama_skin":"[Gaiden] Samurai Casual Top",
+      "skin_url":"https://www.roblox.com/catalog/490604272/Gaiden-Samurai-Casual-Top",
+      "view_skin":"https://tr.rbxcdn.com/a6aace10ff0b073755e98fa0c7f8955d/420/420/Shirt/Png"
+    },
+    {
+      "id":103,
+      "nama_skin":"[Gaiden] Akatsuki Bottom PTS",
+      "skin_url":"https://www.roblox.com/catalog/490595977/Gaiden-Akatsuki-Bottom-PTS",
+      "view_skin":"https://tr.rbxcdn.com/ce6cf3e038eeb11bfc409067aa5bcc6a/420/420/Pants/Png"
+    },
+    {
+      "id":104,
+      "nama_skin":"[Gaiden] Akatsuki Top PTS",
+      "skin_url":"https://www.roblox.com/catalog/490595889/Gaiden-Akatsuki-Top-PTS",
+      "view_skin":"https://tr.rbxcdn.com/d7c1848d92964b97497135815cb7de0b/420/420/Shirt/Png"
+    },
+    {
+      "id":105,
+      "nama_skin":"[Gaiden] Sasuke's Custom Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490594496/Gaiden-Sasukes-Custom-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/dfa35608035bd2a8569ad02a2369f148/420/420/Pants/Png"
+    },
+    {
+      "id":106,
+      "nama_skin":"[Gaiden] Sasuke's Custom Top",
+      "skin_url":"https://www.roblox.com/catalog/490594389/Gaiden-Sasukes-Custom-Top",
+      "view_skin":"https://tr.rbxcdn.com/de44ff9f3afebdb428f78cb8a272b3c7/420/420/Shirt/Png"
+    },
+    {
+      "id":107,
+      "nama_skin":"[Gaiden] Lokai Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490592688/Gaiden-Lokai-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/27b4e142cd6f36602fe0997d52a2a9ad/420/420/Pants/Png"
+    },
+    {
+      "id":108,
+      "nama_skin":"[Gaiden] Lokai Top",
+      "skin_url":"https://www.roblox.com/catalog/490592469/Gaiden-Lokai-Top",
+      "view_skin":"https://tr.rbxcdn.com/1d53c581a51d5308ca131b665ff0ae48/420/420/Shirt/Png"
+    },
+    {
+      "id":109,
+      "nama_skin":"[Gaiden] Edo Tensei Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490591565/Gaiden-Edo-Tensei-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/5682cf24e2f3ec693fa656f05d28cd89/420/420/Pants/Png"
+    },
+    {
+      "id":110,
+      "nama_skin":"[Gaiden] Edo Tensei Top",
+      "skin_url":"https://www.roblox.com/catalog/490591257/Gaiden-Edo-Tensei-Top",
+      "view_skin":"https://tr.rbxcdn.com/8ad713a1e3042327a09b5fa3967feec7/420/420/Shirt/Png"
+    },
+    {
+      "id":111,
+      "nama_skin":"[Gaiden] Anbu Kakashi Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490589874/Gaiden-Anbu-Kakashi-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/c5dd848274ba33f55bf1c6380d91a61c/420/420/Pants/Png"
+    },
+    {
+      "id":112,
+      "nama_skin":"[Gaiden] Anbu Kakashi Top",
+      "skin_url":"https://www.roblox.com/catalog/490589789/Gaiden-Anbu-Kakashi-Top",
+      "view_skin":"https://tr.rbxcdn.com/a2eb99d9c7f2761abbed8c8753bc431a/420/420/Shirt/Png"
+    },
+    {
+      "id":113,
+      "nama_skin":"[Gaiden] Anbu Itachi Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490588400/Gaiden-Anbu-Itachi-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/a9f0de486f662d0a6f066fe4d4732b97/420/420/Pants/Png"
+    },
+    {
+      "id":114,
+      "nama_skin":"[Gaiden] Anbu Itachi Top",
+      "skin_url":"https://www.roblox.com/catalog/490587914/Gaiden-Anbu-Itachi-Top",
+      "view_skin":"https://tr.rbxcdn.com/f438aa8770a16e66375654ce2dc5459d/420/420/Shirt/Png"
+    },
+    {
+      "id":115,
+      "nama_skin":"[Gaiden] Ramen Worker Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490585633/Gaiden-Ramen-Worker-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/0ecc6addc56334c3687b483ec51ef900/420/420/Pants/Png"
+    },
+    {
+      "id":116,
+      "nama_skin":"[Gaiden] Ramen Worker Top",
+      "skin_url":"https://www.roblox.com/catalog/490585453/Gaiden-Ramen-Worker-Top",
+      "view_skin":"https://tr.rbxcdn.com/61da08baf4abf2da3f4f44e0bb50f5e5/420/420/Shirt/Png"
+    },
+    {
+      "id":117,
+      "nama_skin":"[Gaiden] Zabuza's Bottom",
+      "skin_url":"https://www.roblox.com/catalog/490583511/Gaiden-Zabuzas-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/0afe6b291abe8755e2d00e7e23516040/420/420/Pants/Png"
+    },
+    {
+      "id":118,
+      "nama_skin":"[Gaiden] Zabuza's Top",
+      "skin_url":"https://www.roblox.com/catalog/490583396/Gaiden-Zabuzas-Top",
+      "view_skin":"https://tr.rbxcdn.com/0b81373032459c55b30af2436ff87cb6/420/420/Shirt/Png"
+    },
+    {
+      "id":119,
+      "nama_skin":"Shinobi of LoE Bottom",
+      "skin_url":"https://www.roblox.com/catalog/446564760/Shinobi-of-LoE-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/4281b96cf03ce67cd078a00b690c5a20/420/420/Pants/Png"
+    },
+    {
+      "id":120,
+      "nama_skin":"Shinobi of LoE Top",
+      "skin_url":"https://www.roblox.com/catalog/446564516/Shinobi-of-LoE-Top",
+      "view_skin":"https://tr.rbxcdn.com/ef09597e4bd8f7b389e838df6174e0fa/420/420/Shirt/Png"
+    },
+    {
+      "id":121,
+      "nama_skin":"Taijutsu JumpSuit Flak Top",
+      "skin_url":"https://www.roblox.com/catalog/446285960/Taijutsu-JumpSuit-Flak-Top",
+      "view_skin":"https://tr.rbxcdn.com/9f452d4318b1ef173b7839847e7ec60b/420/420/Shirt/Png"
+    },
+    {
+      "id":122,
+      "nama_skin":"Taijutsu JumpSuit Flak ",
+      "skin_url":"https://www.roblox.com/catalog/446285488/Taijutsu-JumpSuit-Flak-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/2a63af42489139eab67b719d9bb7f78b/420/420/Pants/Png"
+    },
+    {
+      "id":123,
+      "nama_skin":"Anbu Bottom",
+      "skin_url":"https://www.roblox.com/catalog/446105759/Anbu-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/e5b34cdea6d2f5c3df73312b885002d0/420/420/Pants/Png"
+    },
+    {
+      "id":124,
+      "nama_skin":"Anbu Top",
+      "skin_url":"https://www.roblox.com/catalog/446105169/Anbu-Top",
+      "view_skin":"https://tr.rbxcdn.com/ff0d70337d542bc7daad1ed374c5a45b/420/420/Shirt/Png"
+    },
+    {
+      "id":125,
+      "nama_skin":"Taijutsu Jumpsuit Bottom",
+      "skin_url":"https://www.roblox.com/catalog/446100905/Taijutsu-Jumpsuit-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/2ca90395bf6fc9090e56e2dbb89a6582/420/420/Pants/Png"
+    },
+    {
+      "id":126,
+      "nama_skin":"Taijutsu Jumpsuit Top",
+      "skin_url":"https://www.roblox.com/catalog/446100843/Taijutsu-Jumpsuit-Top",
+      "view_skin":"https://tr.rbxcdn.com/53e86d6f6c17b762cb8613caad897013/420/420/Shirt/Png"
+    },
+    {
+      "id":127,
+      "nama_skin":"Shinobi Union Chunin Flak Top",
+      "skin_url":"https://www.roblox.com/catalog/445182365/Shinobi-Union-Chunin-Flak-Top",
+      "view_skin":"https://tr.rbxcdn.com/035990b65a068dfab5c75885c8fef8e2/420/420/Shirt/Png"
+    },
+    {
+      "id":128,
+      "nama_skin":"Shinobi Union Chunin Flak Bottom",
+      "skin_url":"https://www.roblox.com/catalog/445153727/Shinobi-Union-Chunin-Flak-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/3717373aeec2bffdf1f1c60545430f18/420/420/Pants/Png"
+    },
+    {
+      "id":129,
+      "nama_skin":"Otsutsuki Main House Shirt",
+      "skin_url":"https://www.roblox.com/catalog/436882048/Otsutsuki-Main-House-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/d63dd7e67713427d3b478bd7e1ee314b/420/420/Shirt/Png"
+    },
+    {
+      "id":130,
+      "nama_skin":"Otsutsuki Main House Pants",
+      "skin_url":"https://www.roblox.com/catalog/435853742/Otsutsuki-Main-House-Pants",
+      "view_skin":"https://tr.rbxcdn.com/831035bd6d40c866359b347f9bf40a8b/420/420/Pants/Png"
+    },
+    {
+      "id":131,
+      "nama_skin":"Kid Sasuke's Pants",
+      "skin_url":"https://www.roblox.com/catalog/435664083/Kid-Sasukes-Pants",
+      "view_skin":"https://tr.rbxcdn.com/bb360c1a454a08fa92634e4a238a7f22/420/420/Pants/Png"
+    },
+    {
+      "id":132,
+      "nama_skin":"Kid Sasuke's Shirt",
+      "skin_url":"https://www.roblox.com/catalog/435663612/Kid-Sasukes-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/a84777237044e8e58d5a18d2d9748d51/420/420/Shirt/Png"
+    },
+    {
+      "id":133,
+      "nama_skin":"[Gaiden] Uchiha Clan Remastered Pants",
+      "skin_url":"https://www.roblox.com/catalog/413400464/Gaiden-Uchiha-Clan-Remastered-Pants",
+      "view_skin":"https://tr.rbxcdn.com/c4dfdcc0137a5b20fa3ed0345368dd2e/420/420/Pants/Png"
+    },
+    {
+      "id":134,
+      "nama_skin":"[Gaiden] Uchiha Clan Remastered Shirt",
+      "skin_url":"https://www.roblox.com/catalog/413400373/Gaiden-Uchiha-Clan-Remastered-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/d92f7a7b9b944ad09458e4817051b5f3/420/420/Shirt/Png"
+    },
+    {
+      "id":135,
+      "nama_skin":"[Gaiden] Akatsuki Re-Detailed Bottom",
+      "skin_url":"https://www.roblox.com/catalog/413010198/Gaiden-Akatsuki-Re-Detailed-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/8acc310151425efd66511d073f8f433b/420/420/Pants/Png"
+    },
+    {
+      "id":136,
+      "nama_skin":"[Gaiden] Akatsuki Re-Detailed Top",
+      "skin_url":"https://www.roblox.com/catalog/413009925/Gaiden-Akatsuki-Re-Detailed-Top",
+      "view_skin":"https://tr.rbxcdn.com/88a6e92d028a440014e994f10c359104/420/420/Shirt/Png"
+    },
+    {
+      "id":137,
+      "nama_skin":"[Gaiden] Akatsuki Destroyed Cloak Bottom",
+      "skin_url":"https://www.roblox.com/catalog/406927832/Gaiden-Akatsuki-Destroyed-Cloak-Bottom",
+      "view_skin":"https://tr.rbxcdn.com/bbf652556fa6f5fdf862078b5ebfe25b/420/420/Pants/Png"
+    },
+    {
+      "id":138,
+      "nama_skin":"[Gaiden] Akatsuki Destroyed Cloak Top",
+      "skin_url":"https://www.roblox.com/catalog/406930361/Gaiden-Akatsuki-Destroyed-Cloak-Top",
+      "view_skin":"https://tr.rbxcdn.com/daa2956857c354e66529bb4f8f98b0a4/420/420/Shirt/Png"
+    },
+    {
+      "id":139,
+      "nama_skin":"[Gaiden] Old-School Akatsuki Pants",
+      "skin_url":"https://www.roblox.com/catalog/408398220/Gaiden-Old-School-Akatsuki-Pants",
+      "view_skin":"https://tr.rbxcdn.com/37bd92f26e9344fda956966c0b302e0e/420/420/Pants/Png"
+    },
+    {
+      "id":140,
+      "nama_skin":"[Gaiden] Old-School Akatsuki Shirt",
+      "skin_url":"https://www.roblox.com/catalog/408398148/Gaiden-Old-School-Akatsuki-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/80bb843ab7985dba44c4f011fd586ce7/420/420/Shirt/Png"
+    },
+    {
+      "id":141,
+      "nama_skin":"UchihaNecklace",
+      "skin_url":"https://www.roblox.com/catalog/408395284/UchihaNecklace",
+      "view_skin":"https://t7.rbxcdn.com/9879a442ce35fed19667243619cd5d76"
+    },
+    {
+      "id":142,
+      "nama_skin":"Naruto's Necklace",
+      "skin_url":"https://www.roblox.com/catalog/407648921/Narutos-Necklace",
+      "view_skin":"https://t6.rbxcdn.com/5af42930fcca0eb20b38a7082dcf1f8f"
+    },
+    {
+      "id":143,
+      "nama_skin":"Sage Of Six Paths Necklace",
+      "skin_url":"https://www.roblox.com/catalog/407649054/Sage-Of-Six-Paths-Necklace",
+      "view_skin":"https://t2.rbxcdn.com/7e683a2815719628e1d5b36d5e13ae86"
+    },
+    {
+      "id":144,
+      "nama_skin":"Akatsuki Necklace",
+      "skin_url":"https://www.roblox.com/catalog/407655243/Akatsuki-Necklace",
+      "view_skin":"https://t5.rbxcdn.com/bf8f529a77fb4b38274139ff618878d8"
+    },
+    {
+      "id":145,
+      "nama_skin":"[Gaiden] Shinobi Land Of Earth Pants 2",
+      "skin_url":"https://www.roblox.com/catalog/407013482/Gaiden-Shinobi-Land-Of-Earth-Pants-2",
+      "view_skin":"https://tr.rbxcdn.com/806aa0ab8949875fba2fb94f41e49082/420/420/Pants/Png"
+    },
+    {
+      "id":146,
+      "nama_skin":"[Gaiden] Shinobi Land Of Earth Shirt 2",
+      "skin_url":"https://www.roblox.com/catalog/407013322/Gaiden-Shinobi-Land-Of-Earth-Shirt-2",
+      "view_skin":"https://tr.rbxcdn.com/25ac924fcb1b646daff004dbf1c311ab/420/420/Shirt/Png"
+    },
+    {
+      "id":147,
+      "nama_skin":"[Gaiden] Shinobi Land Of Earth Pants",
+      "skin_url":"https://www.roblox.com/catalog/406990752/Gaiden-Shinobi-Land-Of-Earth-Pants",
+      "view_skin":"https://tr.rbxcdn.com/6a090a4faf3031ca3aafca9940a44ade/420/420/Pants/Png"
+    },
+    {
+      "id":148,
+      "nama_skin":"[Gaiden] Shinobi Land Of Earth Shirt",
+      "skin_url":"https://www.roblox.com/catalog/406990555/Gaiden-Shinobi-Land-Of-Earth-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/464bdaac1a1d9a0555828f051c02a87e/420/420/Shirt/Png"
+    },
+    {
+      "id":149,
+      "nama_skin":"[Gaiden] Shinobi Land of Fire Pants",
+      "skin_url":"https://www.roblox.com/catalog/399956835/Gaiden-Shinobi-Land-of-Fire-Pants",
+      "view_skin":"https://tr.rbxcdn.com/bc3dcdf6302e8089ab0885240859f2c4/420/420/Pants/Png"
+    },
+    {
+      "id":420,
+      "nama_skin":"[Gaiden] Shinobi Land of Fire Shirt",
+      "skin_url":"https://www.roblox.com/catalog/399953158/Gaiden-Shinobi-Land-of-Fire-Shirt",
+      "view_skin":"https://tr.rbxcdn.com/80d5bef3f154a854057e31c4585b6acc/420/420/Shirt/Png"
+    },
+    {
+      "id":151,
+      "nama_skin":"[Gaiden] Uchiha Shirt Variant Cloak [2]",
+      "skin_url":"https://www.roblox.com/catalog/398050289/Gaiden-Uchiha-Shirt-Variant-Cloak-2",
+      "view_skin":"https://tr.rbxcdn.com/6f7aa4e8c1ad1c98be3525230f08fd2f/420/420/Shirt/Png"
+    },
+    {
+      "id":152,
+      "nama_skin":"[Gaiden] Uchiha Pants Variant Cloak [2]",
+      "skin_url":"https://www.roblox.com/catalog/398050344/Gaiden-Uchiha-Pants-Variant-Cloak-2",
+      "view_skin":"https://tr.rbxcdn.com/f24de3abc2504bc84e74d686561ce7e3/420/420/Pants/Png"
+    },
+    {
+      "id":153,
+      "nama_skin":"[Gaiden] Uchiha Shirt Variant [2]",
+      "skin_url":"https://www.roblox.com/catalog/398050148/Gaiden-Uchiha-Shirt-Variant-2",
+      "view_skin":"https://tr.rbxcdn.com/7aa2be60aec23522df2ce4ad867d653e/420/420/Shirt/Png"
+    },
+    {
+      "id":154,
+      "nama_skin":"[Gaiden] Uchiha Pants Variant [2]",
+      "skin_url":"https://www.roblox.com/catalog/398050208/Gaiden-Uchiha-Pants-Variant-2",
+      "view_skin":"https://tr.rbxcdn.com/df61c81ba8d4aef93d99729377a5a162/420/420/Pants/Png"
     }
   ],
-  "Addons":
+  "Passes":
   [
     {
       "id":1,
-      "nama_add":"Cat Plush",
+      "nama_add":"Element Slot 3",
       "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
       "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
       "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
-      "view_add":"https://aliendro.id/wp-content/addon/catplus.png",
+      "view_add":"https://t3.rbxcdn.com/159dfd6c512c3f2c4f2b7df331dc2671",
+      "des_add":"This gamepass spec gives the fourth element slot. This is for RPG only.\n\nIf you have a gamepass listed below you don't need to buy this, all purchases final:\nShinobi Life:"
+    },
+    {
+      "id":2,
+      "nama_add":"Element Slot 4",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t1.rbxcdn.com/497ef9a2bbb806c2fad12c5ced94f447",
+      "des_add":"file:///android_asset/cats.html"
+    },
+    {
+      "id":3,
+      "nama_add":"Genkai Slot 3",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t2.rbxcdn.com/4b4c2353af171bdbfe7cdb7369d3f88d",
+      "des_add":"file:///android_asset/cats.html"
+    },
+    {
+      "id":4,
+      "nama_add":"Genkai Slot 3",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t2.rbxcdn.com/8eb376a0e6dd8cad4b4e5b739d154b70",
+      "des_add":"file:///android_asset/cats.html"
+    },
+    {
+      "id":5,
+      "nama_add":"Genkai Bag",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t5.rbxcdn.com/c957e60062b30beb1ba0473bb62cadd5",
+      "des_add":"file:///android_asset/cats.html"
+    },
+    {
+      "id":6,
+      "nama_add":"Customs",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t7.rbxcdn.com/23b075484757d50d1a782fed1e2fd502",
+      "des_add":"file:///android_asset/cats.html"
+    },
+    {
+      "id":7,
+      "nama_add":"Akatsuki Membership",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t2.rbxcdn.com/053b95280d3e20c49a7b7237b458e244",
+      "des_add":"file:///android_asset/cats.html"
+    },
+    {
+      "id":8,
+      "nama_add":"Shinobi Radio",
+      "add_url":"https://aliendro.id/wp-content/addon/catplus.zip",
+      "addB_url":"https://aliendro.id/wp-content/addon/Cats Plus B.mcpack",
+      "addR_url":"https://aliendro.id/wp-content/addon/Cats Plus R.mcpack",
+      "view_add":"https://t4.rbxcdn.com/19f3f423c2342ad8080300261925acdb",
       "des_add":"file:///android_asset/cats.html"
     }
   ],
@@ -132,10 +1103,17 @@
   [
     {
       "id":1,
-      "nama_map":"Hello Neighbor2",
+      "nama_map":"September 2020",
       "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
-      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
-      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+      "view_map":"https://1.bp.blogspot.com/-1RAHQpw0KCo/X3PyB7AOUfI/AAAAAAAAC6E/CmJRwLnqAZ41DmDWmj5ohuQGPblW3UKkgCLcBGAsYHQ/s0/a.jpg",
+      "des_map":"file:///android_asset/shinobi.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Oktober 2020",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://1.bp.blogspot.com/-8MMDqLq3d54/X3PzATgtYhI/AAAAAAAAC6M/CA8q2cdR_OAV9ozzhQwekHMYm1KaN515wCLcBGAsYHQ/s0/b.jpg",
+      "des_map":"file:///android_asset/oktober.html"
     }
   ]}
   ]
